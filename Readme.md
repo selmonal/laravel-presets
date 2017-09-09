@@ -13,5 +13,11 @@ Go to your project root directory then run your presets.
 laravel-presets preset spectre
 ```
 
+Some presets update your sass and js files then you need to recompile your assets.
+```
+npm install
+npm run dev
+```
+
 ## Available Presets
     - spectre
