@@ -1,6 +1,4 @@
 ## Laravel Presets
-
-## Intro
 This package scaffolds your fresh Laravel application with some css frameworks [spectre, etc ...]. By default a Laravel application has bootstrap3 auth interface. You can easily change it by laravel-presets.
 
 ## Installation
