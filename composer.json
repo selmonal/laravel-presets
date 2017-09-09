@@ -1,0 +1,22 @@
+{
+    "name": "selmonal/laravel-presets",
+    "description": "Presets for a new laravel app.",
+    "type": "project",
+    "require": {
+        "symfony/console": "~2.3|~3.0",
+        "symfony/filesystem": "~2.3|~3.0",
+        "illuminate/filesystem": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "selmonal",
+            "email": "selmonal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Selmonal\\LaravelPresets\\": "src/"
+        }
+    }
+}
